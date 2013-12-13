@@ -1,0 +1,5 @@
+{
+	"awsKeyID":"[Amazon Key ID]",
+	"awsKey":"[Amazon Secret Key]",
+	"awsTag":"[Amazon associate tag]"
+}
